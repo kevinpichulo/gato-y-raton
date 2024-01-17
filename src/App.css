@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.square {
+  height: 50px;
+  width: 50px; 
+  font-size: 3em;
+}
+.board-row{
+  text-align: center;
+  
+}
+body{
+  background-color: red;
+}
